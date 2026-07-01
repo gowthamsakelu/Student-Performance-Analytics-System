@@ -43,7 +43,9 @@ Student-Performance-Analytics-System/
 │
 ├── src/
 │   └── train.py
-│
+|   └── predict.py
+│   └── utils.py
+|
 ├── requirements.txt
 ├── README.md
 └── .gitignore
