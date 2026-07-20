@@ -4,7 +4,7 @@ A Machine Learning project that predicts a student's exam score based on various
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview,
 a
 This project uses **Linear Regression** to predict students' exam scores from features such as:
 
